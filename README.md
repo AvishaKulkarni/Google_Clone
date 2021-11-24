@@ -6,7 +6,7 @@ ___
 
 
 _So basically it is a combination of HTML and CSS programming giving a simple non-responsive google homepage Clone. Since I am starting my journey on GITHUB 
-with this simpe project I hope to take my progress chart exponentially higher._
+with this simple project I hope to take my progress chart exponentially higher._
 ***
 
 
